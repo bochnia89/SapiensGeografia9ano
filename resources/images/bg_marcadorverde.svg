@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.76" height="23.706" viewBox="0 0 19.76 23.706">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_12767" data-name="Caminho 12767" d="M0,0H19.76V-23.706H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bg_marcadorverde" transform="translate(0 23.706)">
+    <g id="Grupo_5062" data-name="Grupo 5062" clip-path="url(#clip-path)">
+      <g id="Grupo_5060" data-name="Grupo 5060" transform="translate(16.398 -20.364)">
+        <path id="Caminho_12765" data-name="Caminho 12765" d="M0,0A9.249,9.249,0,0,0-6.52-2.691,9.246,9.246,0,0,0-13.036,0a9.082,9.082,0,0,0-2.712,6.492,9.084,9.084,0,0,0,2.712,6.493l6.518,6.464L0,12.985A9.084,9.084,0,0,0,2.712,6.492,9.082,9.082,0,0,0,0,0" fill="#6cc247"/>
+      </g>
+      <g id="Grupo_5061" data-name="Grupo 5061" transform="translate(16.398 -20.364)">
+        <path id="Caminho_12766" data-name="Caminho 12766" d="M0,0A9.249,9.249,0,0,0-6.52-2.691,9.246,9.246,0,0,0-13.036,0a9.082,9.082,0,0,0-2.712,6.492,9.084,9.084,0,0,0,2.712,6.493l6.518,6.464L0,12.985A9.084,9.084,0,0,0,2.712,6.492,9.082,9.082,0,0,0,0,0Z" fill="none" stroke="#fff" stroke-width="1.3"/>
+      </g>
+    </g>
+  </g>
+</svg>

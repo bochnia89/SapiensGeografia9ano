@@ -4207,6 +4207,12 @@ table .marcador {
         display: block;
 
     }
+    .infoLivro {
+
+        width: 100%;
+    
+    }
+    
 
     /* POSICIONAMENTO - COLUNAS */
     .col2, .col2c {
